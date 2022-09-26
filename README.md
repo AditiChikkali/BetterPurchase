@@ -1,8 +1,8 @@
-# Better  Purchase
+# BetterPurchase
 
 #Introduction-
 
-The goal of Better Purchase is to build a database that compares the costs of different ECommerce products and determines the best website to purchase the item at the lowest cost.
+The goal of BetterPurchase is to build a database that compares the costs of different ECommerce products and determines the best website to purchase the item at the lowest cost.
  
 #Why BetterPurchase?
 
@@ -28,14 +28,15 @@ We have expanded the scope of our project by
 
 -Cleaning Supplies
 
-*Advance Search facility 
+*Advanced Search facility 
 
-Customer can advance their search by setting various product specifications like brand name, device memory in case of electronics,Volume(quantity) of beverage bottles  etc.
+Customer can advance their search by setting various product specifications like brand name, device memory in case of electronics, volume(quantity) of beverage bottles, etc.
 
 *Customer feedback section
 
 The consumer will be able to check and offer information about the product's quality.
 
+Team Members:
 
 Name | Github id | NUID
 
